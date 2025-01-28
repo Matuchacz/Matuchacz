@@ -1,5 +1,5 @@
 <div align="center">
- <div class="tenor-gif-embed" data-postid="14980584" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/garnet-gif-14980584">Garnet GIF</a>from <a href="https://tenor.com/search/garnet-gifs">Garnet GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWpkMnN6NGgyZjM0N2xwc2FpYjRxdTRhZ2p5b296bHRnbXlxcmJzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JrTAq90IbYz00zW2kz/giphy.gif"  />
 </div>
 
 ###
@@ -34,7 +34,14 @@
 
 ###
 
-<p align="center">Come check some of my work!<br><br>Itch.io -->  https://itch.io/dashboard</p>
+<p align="center">Come check some of my work!</p>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linktree logo"  />
+</div>
 
 ###
 
