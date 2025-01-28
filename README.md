@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://imgflip.com/gif/9i9z54"  />
+ <div class="tenor-gif-embed" data-postid="14980584" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/garnet-gif-14980584">Garnet GIF</a>from <a href="https://tenor.com/search/garnet-gifs">Garnet GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 ###
