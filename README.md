@@ -49,8 +49,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <div class="tenor-gif-embed" data-postid="10513445" data-share-method="host" data-aspect-ratio="2.78" data-width="100%"><a href="https://tenor.com/view/suara-gelombang-getar-sound-wave-gif-10513445">Suara GIF</a>from <a href="https://tenor.com/search/suara-gifs">Suara GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-###
