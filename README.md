@@ -26,6 +26,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
 ###
@@ -39,14 +43,14 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linktree logo"  />
+  <a href="https://linktr.ee/m4tucha" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linktree logo"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matuchacz&radius=16&theme=nightowl&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
+  <div class="tenor-gif-embed" data-postid="10513445" data-share-method="host" data-aspect-ratio="2.78" data-width="100%"><a href="https://tenor.com/view/suara-gelombang-getar-sound-wave-gif-10513445">Suara GIF</a>from <a href="https://tenor.com/search/suara-gifs">Suara GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
